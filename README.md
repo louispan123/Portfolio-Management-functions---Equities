@@ -1,5 +1,4 @@
 # Portfolio-Management-functions---Equities
-'''
 Has 3 functions:
 
 Required inputs: Stop Loss, Entry, Current Price, Quantity of stocks purchased 
@@ -9,7 +8,8 @@ Averaging down: Gets user input regarding what price they want to average down t
 Break even: Calculates target price the stock needs to reach for you to offload {x amount} of stocks in order to have a risk free trade. This also displays a visual graph which plots all the other x amounts of stocks you can possibly offload in correspondence to what price the stock needs to reach for a risk free trade. 
 
 Stock notifs: Which basically notifies you when a stock hits a pre determined price, it allows for both take profit and stop loss price points. 
-'''
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 EDIT:
 Updated version of stock notifs
 - Allows for 2 dictionary data sets, 1 for swing trading / day trading, another for long terms. 
