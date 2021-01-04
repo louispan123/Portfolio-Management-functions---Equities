@@ -10,3 +10,9 @@ Break even: Calculates target price the stock needs to reach for you to offload 
 
 Stock notifs: Which basically notifies you when a stock hits a pre determined price, it allows for both take profit and stop loss price points. 
 '''
+EDIT:
+Updated version of stock notifs
+- Allows for 2 dictionary data sets, 1 for swing trading / day trading, another for long terms. 
+- Option to notify if it is within proximity i.e. 2% points away from the target average size level. 
+- Plots out all the charts w/ indicators for all tickers which fit criteria 
+- Indicators include Moving averages, Bollinger bands, Candle stick charts etc. 
